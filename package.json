@@ -2,8 +2,8 @@
   "name": "santihdzs-theme",
   "displayName": "SantiHdzs Theme",
   "publisher": "santihdzs",
-  "description": "A custom dark theme based on Poimandres.",
-  "version": "1.0.0",
+  "description": "A custom dark theme based on Poimandres",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.97.0"
   },
@@ -22,5 +22,6 @@
         "path": "./themes/santihdzs-dark-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "images/extension-logo.png"
 }
