@@ -1,0 +1,21 @@
+{
+  "name": "santihdzs-theme",
+  "displayName": "SantiHdzs Theme",
+  "description": "A custom dark theme based on Poimandres.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "santihdzs",
+        "uiTheme": "vs-dark",
+        "path": "./themes/santihdzs-dark-color-theme.json"
+      }
+    ]
+  }
+}
