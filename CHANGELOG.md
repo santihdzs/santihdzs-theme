@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [1.1.0] - 2025-03-05
+
+### Added
+
+- Added support for VS Code versions ^1.50.0
+
 ## [1.0.1] - 2025-03-03
 
 ### Added
